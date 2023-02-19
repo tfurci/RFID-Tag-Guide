@@ -185,3 +185,5 @@ Gen 2 OTW --> **Not tested**
 Gen 3 --> **Not tested**
 
 Gen 4 --> **Not tested**(The best option but pricey and hard to source in small chip formfactor)
+
+## How to clone RFID tags
